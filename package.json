@@ -1,0 +1,16 @@
+{
+    "name": "tranminhtoan",
+    "version": "1.0.0",
+    "scripts": {
+        "test:problem4": "ts-node src/problem4/index.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "@types/node": "^22.13.10",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.2"
+    }
+}
